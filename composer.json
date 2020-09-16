@@ -25,7 +25,7 @@
     },
     "autoload": {
         "psr-4": {
-            "devteam\\queryservice\\": "src/"
+            "dmmil\\queryservice\\": "src/"
         }
     },
     "autoload-dev": {
