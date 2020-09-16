@@ -9,6 +9,6 @@
             "queryservice\\": "queryservice/"
         }
     },
-    "license": "DMMIL",
+    "license": "proprietary",
     "minimum-stability": "dev"
 }
