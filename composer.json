@@ -1,0 +1,36 @@
+{
+    "name": "devteam/queryservice",
+    "description": "This is Query service package",
+    "type": "project",
+    "license": "Dmmil",
+    "authors": [
+        {
+            "name": "development team",
+            "email": "test@test.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": "^7.1.33",
+        "php-amqplib/php-amqplib": ">=2.9.0",
+        "laravel/framework": "5.*",
+        "laravel/tinker": "^1.0"
+    },
+    "require-dev": {
+        "mockery/mockery": "^0.9.4",
+        "illuminate/cache": "~5.2",
+        "illuminate/redis": "~5.2",
+        "phpunit/phpunit": "~5.0",
+        "orchestra/testbench": "3.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "devteam\\queryservice\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "queryservice\\Tests\\": "tests/"
+        }
+    }
+}
