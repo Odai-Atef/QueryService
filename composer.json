@@ -1,5 +1,5 @@
 {
-    "name": "devteam/queryservice",
+    "name": "query_service",
     "description": "This is Query service package",
     "type": "project",
     "license": "Dmmil",
