@@ -1,5 +1,5 @@
 {
-    "name": "dmmilqueryservice",
+    "name": "dmmil/queryservice",
     "description": "This is Query service package",
     "type": "project",
     "license": "Dmmil",
