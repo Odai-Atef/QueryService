@@ -10,5 +10,5 @@
         }
     },
     "license": "proprietary",
-    "minimum-stability": "master"
+    "minimum-stability": "v1.0"
 }
